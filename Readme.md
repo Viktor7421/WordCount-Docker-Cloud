@@ -17,3 +17,5 @@ Para que funcione el main.py debe tener la ruta del archivo a leer y este debe e
     -movies.csv
     -output_file.txt
 ```
+
+Link del [Dockerhub](https://hub.docker.com/r/victor7421/wordcountcloud)
